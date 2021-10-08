@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+
+  <head>
+    <title>Skolo</title>
+ </head>
+  <body>
+    <img src="ai1.jpg"/>
+
+  </body>
+</html>
